@@ -1,0 +1,7 @@
+
+#Ignoring files
+*.exe
+*.out
+
+#Ignoring folders
+/.vscode
